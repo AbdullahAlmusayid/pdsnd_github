@@ -1,6 +1,6 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
+### Date Created
 26/12/2022
 
 ### Project Title
@@ -19,7 +19,7 @@ Most common start and end station ,most common combination of travel(i.e,start a
 
 3.Trip Duration
 
-Total travel time,average travel time
+Total Travel Time,Average Travel Time
 
 4.Raw Data
 
